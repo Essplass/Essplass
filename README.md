@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essplass
-- 👀 I’m interested in data science and animals 
+- 👀 I’m interested in AI technologies and good food!
 - 🌱 I’m currently learning Python : )
 
 <!---
