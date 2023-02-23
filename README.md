@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Essplass
 - 👀 I’m interested in emerging technologies and good food!
-- 🌱 I’m currently learning Pynecone =)
+- 🌱 I’m currently learning Pynecone https://pynecone.io/ =)
 
 <!---
 Essplass/Essplass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
