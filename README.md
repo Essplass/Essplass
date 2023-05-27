@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essplass
-- 👀 I’m interested in emerging technologies and good food!
+- 👀 I’m in learning new things and writing codes. : )
 - 🌱 I’m currently learning Pynecone https://pynecone.io/ =)
 
 <!---
