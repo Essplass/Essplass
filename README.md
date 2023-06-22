@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essplass/Sam</h1>
-<h3 align="center">A Python Software Developer from the UK.</h3>
+<h3 align="center">A Python Software Developer from the UK</h3>
 
 <p align="center">📫 How to reach me <a href="mailto:samuelfdev@protonmail.com">samuelfdev@protonmail.com</a></p>
 
